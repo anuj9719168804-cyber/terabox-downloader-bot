@@ -12,7 +12,7 @@ PASSWORD = ""  # redis password
 PRIVATE_CHAT_ID = -1001234567890  # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
 COOKIE = ""
-ADMINS = [1317173146]
+ADMINS = [8256962358]
 
 
 BOT_USERNAME = "@Teraboxanuj_bot"
