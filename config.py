@@ -9,7 +9,7 @@ HOST = "localhost"  # redis host uri
 PORT = 6379  # redis port
 PASSWORD = ""  # redis password
 
-PRIVATE_CHAT_ID = -1003613454955  # CHAT WHERE YOU WANT TO STORE VIDEOS
+PRIVATE_CHAT_ID = --1003613454955 # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
 COOKIE = ""
 ADMINS = [8256962358]
