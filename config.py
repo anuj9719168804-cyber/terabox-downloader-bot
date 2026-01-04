@@ -1,5 +1,5 @@
 API_ID = 32295602  # api id
-API_HASH = "406a1c848574cd54189041aa7e507984"  # api hash
+API_HASH = "3m"  # api hash
 
 BOT_TOKEN = "8399022576:AAFe3QcCEso6rnyboCzpvSigC0DjY4jX_Iw"  # bot token
 
